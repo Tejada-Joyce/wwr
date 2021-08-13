@@ -24,12 +24,12 @@ section.education h1:hover {
     color: black;
 }
 
-section.education p {
+.education p {
     font-size: 1.25em;
     line-height: 33px;
 }
 
-section.education p span{
+.education p span{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     display: block;
@@ -37,7 +37,7 @@ section.education p span{
     margin-top: 15px;
 }
 
-section.principles ol {
+.principles ol {
     text-align: left;
     font-weight: bolder;
     line-height: 45px;
@@ -46,11 +46,11 @@ section.principles ol {
     letter-spacing: -1.4px;
 }
 
-section.principles img{
+.principles img{
     width: 38%;
 }
 
-section p.quote {
+p.quote {
     color: white;
     font-size: 3.3em;
     width: 80%;
@@ -58,7 +58,7 @@ section p.quote {
     line-height: 68px;
 }
 
-section p.name {
+p.name {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.45em;
     width: 85%;

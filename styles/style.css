@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Belleza&family=Sigmar+One&display=swap');
+
 body {
     background-color: #fcfbfb; 
+    font-family:  Belleza, Helvetica, sans-serif;
+    /* font-family:  "Sigmar One", "Trebuchet MS", sans-serif; */
+
 }
 
 header {
